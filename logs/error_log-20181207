@@ -1,0 +1,798 @@
+[Thu Nov 22 04:31:16 2018] [warn] RSA server certificate CommonName (CN) `people.uic.edu' does NOT match server name!?
+[Thu Nov 22 04:32:35 2018] [warn] RSA server certificate CommonName (CN) `people.uic.edu' does NOT match server name!?
+[Thu Nov 22 06:05:37 2018] [error] [client 114.228.121.24] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Thu Nov 22 06:16:41 2018] [error] [client 180.154.63.69] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Thu Nov 22 06:16:41 2018] [error] [client 180.154.63.69] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Thu Nov 22 06:16:44 2018] [error] [client 180.154.63.69] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Thu Nov 22 06:16:45 2018] [error] [client 180.154.63.69] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Thu Nov 22 06:16:46 2018] [error] [client 180.154.63.69] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Thu Nov 22 06:16:47 2018] [error] [client 180.154.63.69] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Thu Nov 22 06:16:50 2018] [error] [client 180.154.63.69] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Thu Nov 22 06:16:52 2018] [error] [client 180.154.63.69] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Thu Nov 22 06:16:54 2018] [error] [client 180.154.63.69] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Thu Nov 22 06:16:55 2018] [error] [client 180.154.63.69] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Thu Nov 22 06:16:56 2018] [error] [client 180.154.63.69] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Thu Nov 22 06:16:57 2018] [error] [client 180.154.63.69] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Thu Nov 22 06:29:58 2018] [warn] RSA server certificate CommonName (CN) `people.uic.edu' does NOT match server name!?
+[Thu Nov 22 06:41:06 2018] [error] [client 5.255.250.81] File does not exist: /var/www/people/whanchoi/robots.txt
+[Thu Nov 22 07:21:22 2018] [error] [client 42.49.109.238] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Thu Nov 22 08:08:25 2018] [error] [client 66.249.69.104] File does not exist: /var/www/people/whanchoi/robots.txt
+[Thu Nov 22 08:08:25 2018] [error] [client 66.249.69.102] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Thu Nov 22 09:54:08 2018] [error] [client 100.43.91.126] File does not exist: /var/www/people/whanchoi/robots.txt
+[Thu Nov 22 10:19:38 2018] [error] [client 176.122.179.101] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Thu Nov 22 12:33:37 2018] [error] [client 99.89.104.245] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/CurriculumVitae.pdf
+[Thu Nov 22 14:42:12 2018] [error] [client 123.125.71.53] File does not exist: /var/www/people/whanchoi/DoEcon
+[Thu Nov 22 15:05:27 2018] [error] [client 157.55.39.9] File does not exist: /var/www/people/whanchoi/robots.txt
+[Thu Nov 22 16:04:21 2018] [error] [client 5.255.250.81] File does not exist: /var/www/people/whanchoi/robots.txt
+[Thu Nov 22 19:22:24 2018] [error] [client 71.163.7.197] File does not exist: /var/www/people/whanchoi/apple-touch-icon-120x120-precomposed.png
+[Thu Nov 22 19:22:25 2018] [error] [client 71.163.7.197] File does not exist: /var/www/people/whanchoi/apple-touch-icon-120x120.png
+[Thu Nov 22 19:22:25 2018] [error] [client 71.163.7.197] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Thu Nov 22 19:22:25 2018] [error] [client 71.163.7.197] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Thu Nov 22 19:22:25 2018] [error] [client 71.163.7.197] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Thu Nov 22 19:22:25 2018] [error] [client 71.163.7.197] File does not exist: /var/www/people/whanchoi/apple-touch-icon-120x120-precomposed.png
+[Thu Nov 22 19:22:25 2018] [error] [client 71.163.7.197] File does not exist: /var/www/people/whanchoi/apple-touch-icon-120x120.png
+[Thu Nov 22 19:22:25 2018] [error] [client 71.163.7.197] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Thu Nov 22 19:22:25 2018] [error] [client 71.163.7.197] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Thu Nov 22 19:22:25 2018] [error] [client 71.163.7.197] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Thu Nov 22 19:45:55 2018] [error] [client 74.127.219.219] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/CurriculumVitae.pdf
+[Thu Nov 22 20:16:02 2018] [error] [client 138.201.30.66] File does not exist: /var/www/people/whanchoi/robots.txt, referer: http://whanchoi.people.uic.edu/robots.txt
+[Thu Nov 22 21:52:33 2018] [error] [client 157.55.39.122] File does not exist: /var/www/people/whanchoi/Choi,2009,QJPS_one.pdf
+[Thu Nov 22 21:53:06 2018] [error] [client 163.239.86.243] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/
+[Thu Nov 22 22:27:09 2018] [error] [client 14.23.56.35] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Thu Nov 22 22:55:54 2018] [error] [client 100.43.91.126] File does not exist: /var/www/people/whanchoi/robots.txt
+[Thu Nov 22 23:02:14 2018] [error] [client 42.49.109.238] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Fri Nov 23 00:32:51 2018] [error] [client 66.249.69.100] File does not exist: /var/www/people/whanchoi/robots.txt
+[Fri Nov 23 00:44:16 2018] [error] [client 66.249.69.102] File does not exist: /var/www/people/whanchoi/robots.txt
+[Fri Nov 23 04:12:30 2018] [error] [client 157.55.39.13] File does not exist: /var/www/people/whanchoi/robots.txt
+[Fri Nov 23 04:12:48 2018] [error] [client 157.55.39.122] File does not exist: /var/www/people/whanchoi/robots.txt
+[Fri Nov 23 04:20:59 2018] [warn] RSA server certificate CommonName (CN) `people.uic.edu' does NOT match server name!?
+[Fri Nov 23 05:50:06 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Fri Nov 23 05:50:07 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Fri Nov 23 05:50:08 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Fri Nov 23 05:50:09 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Fri Nov 23 05:50:10 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Fri Nov 23 05:50:10 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Fri Nov 23 05:50:13 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Fri Nov 23 05:50:13 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Fri Nov 23 05:50:14 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Fri Nov 23 05:50:15 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Fri Nov 23 05:50:16 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Fri Nov 23 05:50:17 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Fri Nov 23 07:26:59 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Fri Nov 23 07:27:00 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Fri Nov 23 07:27:01 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Fri Nov 23 07:27:02 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Fri Nov 23 07:27:02 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Fri Nov 23 07:27:03 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Fri Nov 23 07:27:06 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Fri Nov 23 07:27:07 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Fri Nov 23 07:27:07 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Fri Nov 23 07:27:08 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Fri Nov 23 07:27:09 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Fri Nov 23 07:27:10 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Fri Nov 23 08:31:30 2018] [error] [client 100.43.91.126] File does not exist: /var/www/people/whanchoi/robots.txt
+[Fri Nov 23 08:41:15 2018] [error] [client 69.216.121.245] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Fri Nov 23 08:41:51 2018] [error] [client 122.162.206.189] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/EthnicGroupsPoliticalExclusionAndDomesticTerrorism.pdf
+[Fri Nov 23 10:44:38 2018] [error] [client 78.98.48.217] File does not exist: /var/www/people/whanchoi/apple-touch-icon-152x152-precomposed.png
+[Fri Nov 23 10:44:39 2018] [error] [client 78.98.48.217] File does not exist: /var/www/people/whanchoi/apple-touch-icon-152x152.png
+[Fri Nov 23 10:44:39 2018] [error] [client 78.98.48.217] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Fri Nov 23 10:44:40 2018] [error] [client 78.98.48.217] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Fri Nov 23 10:44:40 2018] [error] [client 78.98.48.217] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Fri Nov 23 10:44:41 2018] [error] [client 78.98.48.217] File does not exist: /var/www/people/whanchoi/apple-touch-icon-152x152-precomposed.png
+[Fri Nov 23 10:44:41 2018] [error] [client 78.98.48.217] File does not exist: /var/www/people/whanchoi/apple-touch-icon-152x152.png
+[Fri Nov 23 10:44:42 2018] [error] [client 78.98.48.217] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Fri Nov 23 10:44:42 2018] [error] [client 78.98.48.217] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Fri Nov 23 10:44:43 2018] [error] [client 78.98.48.217] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Fri Nov 23 11:40:45 2018] [error] [client 157.55.39.122] File does not exist: /var/www/people/whanchoi/curriculumvitae.pdf
+[Fri Nov 23 12:00:23 2018] [error] [client 66.249.69.100] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Fri Nov 23 14:01:54 2018] [error] [client 66.249.69.102] File does not exist: /var/www/people/whanchoi/robots.txt
+[Fri Nov 23 14:01:54 2018] [error] [client 66.249.69.104] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Fri Nov 23 16:13:42 2018] [error] [client 54.208.102.37] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/favicon.ico
+[Fri Nov 23 16:13:42 2018] [error] [client 54.208.102.37] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/favicon.ico
+[Fri Nov 23 17:37:54 2018] [error] [client 66.249.83.213] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Fri Nov 23 17:41:46 2018] [error] [client 5.255.250.81] File does not exist: /var/www/people/whanchoi/robots.txt
+[Fri Nov 23 22:58:06 2018] [error] [client 107.77.204.70] File does not exist: /var/www/people/whanchoi/apple-touch-icon-120x120-precomposed.png
+[Fri Nov 23 22:58:06 2018] [error] [client 107.77.204.70] File does not exist: /var/www/people/whanchoi/apple-touch-icon-120x120.png
+[Fri Nov 23 22:58:06 2018] [error] [client 107.77.204.70] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Fri Nov 23 22:58:07 2018] [error] [client 107.77.204.70] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Fri Nov 23 22:58:07 2018] [error] [client 107.77.204.70] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Fri Nov 23 22:58:07 2018] [error] [client 107.77.204.70] File does not exist: /var/www/people/whanchoi/apple-touch-icon-120x120-precomposed.png
+[Fri Nov 23 22:58:07 2018] [error] [client 107.77.204.70] File does not exist: /var/www/people/whanchoi/apple-touch-icon-120x120.png
+[Fri Nov 23 22:58:08 2018] [error] [client 107.77.204.70] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Fri Nov 23 22:58:08 2018] [error] [client 107.77.204.70] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Fri Nov 23 22:58:08 2018] [error] [client 107.77.204.70] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Fri Nov 23 23:45:14 2018] [error] [client 100.43.91.126] File does not exist: /var/www/people/whanchoi/robots.txt
+[Sat Nov 24 01:43:01 2018] [error] [client 220.181.108.96] File does not exist: /var/www/people/whanchoi/robots.txt
+[Sat Nov 24 02:20:42 2018] [warn] RSA server certificate CommonName (CN) `people.uic.edu' does NOT match server name!?
+[Sat Nov 24 02:59:38 2018] [error] [client 54.36.150.108] File does not exist: /var/www/people/whanchoi/robots.txt
+[Sat Nov 24 03:56:07 2018] [warn] RSA server certificate CommonName (CN) `people.uic.edu' does NOT match server name!?
+[Sat Nov 24 04:42:19 2018] [error] [client 5.255.250.81] File does not exist: /var/www/people/whanchoi/robots.txt
+[Sat Nov 24 05:14:24 2018] [error] [client 105.27.240.2] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Sat Nov 24 05:14:25 2018] [error] [client 105.27.240.2] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Sat Nov 24 07:22:16 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Sat Nov 24 07:22:16 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Sat Nov 24 07:22:17 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Sat Nov 24 07:22:18 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Sat Nov 24 07:22:19 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Sat Nov 24 07:22:19 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Sat Nov 24 07:22:23 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Sat Nov 24 07:22:24 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Sat Nov 24 07:22:24 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Sat Nov 24 07:22:25 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Sat Nov 24 07:22:26 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Sat Nov 24 07:22:27 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Sat Nov 24 08:07:56 2018] [error] [client 5.255.250.81] File does not exist: /var/www/people/whanchoi/robots.txt
+[Sat Nov 24 09:28:50 2018] [error] [client 40.77.167.30] File does not exist: /var/www/people/whanchoi/Chapter5.pdf
+[Sat Nov 24 11:20:49 2018] [error] [client 176.122.179.101] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Sat Nov 24 12:10:18 2018] [error] [client 66.249.69.102] File does not exist: /var/www/people/whanchoi/robots.txt
+[Sat Nov 24 12:33:20 2018] [error] [client 89.101.22.249] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/InternallyDisplacedPopulationsAndSuicideTerrorism.pdf
+[Sat Nov 24 14:45:32 2018] [error] [client 157.55.39.122] File does not exist: /var/www/people/whanchoi/robots.txt
+[Sat Nov 24 15:13:54 2018] [error] [client 115.239.215.168] File does not exist: /var/www/people/whanchoi/ChoiandLuo,2013,II.pdf
+[Sat Nov 24 15:13:55 2018] [error] [client 123.125.71.116] File does not exist: /var/www/people/whanchoi/robots.txt
+[Sat Nov 24 15:20:42 2018] [error] [client 115.239.212.228] File does not exist: /var/www/people/whanchoi/ChoiandLuo,2013,II.pdf
+[Sat Nov 24 15:32:55 2018] [error] [client 5.255.250.81] File does not exist: /var/www/people/whanchoi/robots.txt
+[Sat Nov 24 16:43:45 2018] [error] [client 141.226.243.109] File does not exist: /var/www/people/whanchoi/robots.txt
+[Sat Nov 24 16:45:02 2018] [error] [client 177.180.66.66] script not found or unable to stat: /var/www/people/whanchoi/wp-login.php
+[Sat Nov 24 17:21:34 2018] [warn] RSA server certificate CommonName (CN) `people.uic.edu' does NOT match server name!?
+[Sat Nov 24 18:25:41 2018] [error] [client 69.216.121.245] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Sat Nov 24 18:47:47 2018] [error] [client 157.55.39.9] File does not exist: /var/www/people/whanchoi/robots.txt
+[Sat Nov 24 19:03:51 2018] [error] [client 100.43.91.126] File does not exist: /var/www/people/whanchoi/robots.txt
+[Sat Nov 24 20:36:12 2018] [warn] RSA server certificate CommonName (CN) `people.uic.edu' does NOT match server name!?
+[Sat Nov 24 20:40:48 2018] [error] [client 115.239.213.195] File does not exist: /var/www/people/whanchoi/ChoiandLuo,2013,II.pdf
+[Sat Nov 24 20:41:36 2018] [error] [client 115.239.213.185] File does not exist: /var/www/people/whanchoi/ChoiandLuo,2013,II.pdf
+[Sat Nov 24 20:43:00 2018] [error] [client 115.239.215.79] File does not exist: /var/www/people/whanchoi/ChoiandLuo,2013,II.pdf
+[Sat Nov 24 22:58:31 2018] [error] [client 46.229.168.138] File does not exist: /var/www/people/whanchoi/robots.txt
+[Sat Nov 24 22:58:31 2018] [error] [client 46.229.168.131] File does not exist: /var/www/people/whanchoi/sitemap.xml
+[Sun Nov 25 00:27:49 2018] [error] [client 66.249.69.102] File does not exist: /var/www/people/whanchoi/robots.txt
+[Sun Nov 25 00:45:00 2018] [error] [client 115.239.216.44] File does not exist: /var/www/people/whanchoi/ChoiandLuo,2013,II.pdf
+[Sun Nov 25 00:45:33 2018] [error] [client 115.239.214.200] File does not exist: /var/www/people/whanchoi/ChoiandLuo,2013,II.pdf
+[Sun Nov 25 00:46:35 2018] [error] [client 115.239.216.176] File does not exist: /var/www/people/whanchoi/ChoiandLuo,2013,II.pdf
+[Sun Nov 25 01:45:35 2018] [error] [client 157.55.39.122] File does not exist: /var/www/people/whanchoi/curriculumvitae.pdf
+[Sun Nov 25 01:54:03 2018] [error] [client 88.198.69.233] File does not exist: /var/www/people/whanchoi/robots.txt
+[Sun Nov 25 02:17:41 2018] [error] [client 52.56.140.142] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: http://www.google.com/
+[Sun Nov 25 02:30:58 2018] [error] [client 5.255.250.81] File does not exist: /var/www/people/whanchoi/robots.txt
+[Sun Nov 25 03:19:56 2018] [error] [client 157.55.39.122] File does not exist: /var/www/people/whanchoi/Chapter11.pdf
+[Sun Nov 25 03:27:20 2018] [error] [client 66.249.69.102] File does not exist: /var/www/people/whanchoi/robots.txt
+[Sun Nov 25 03:27:30 2018] [error] [client 66.249.69.102] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Sun Nov 25 04:05:53 2018] [error] [client 66.249.69.102] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Sun Nov 25 04:53:46 2018] [error] [client 42.49.109.238] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Sun Nov 25 05:06:02 2018] [error] [client 157.55.39.13] File does not exist: /var/www/people/whanchoi/robots.txt
+[Sun Nov 25 05:06:03 2018] [error] [client 40.77.167.76] File does not exist: /var/www/people/whanchoi/ethnicgroupspoliticalexclusionanddomesticterrorism.pdf
+[Sun Nov 25 05:25:06 2018] [error] [client 23.241.13.102] script not found or unable to stat: /var/www/people/whanchoi/wp-login.php
+[Sun Nov 25 05:37:07 2018] [warn] RSA server certificate CommonName (CN) `people.uic.edu' does NOT match server name!?
+[Sun Nov 25 05:48:04 2018] [error] [client 176.122.179.101] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Sun Nov 25 06:21:18 2018] [error] [client 157.55.39.13] File does not exist: /var/www/people/whanchoi/robots.txt
+[Sun Nov 25 06:37:38 2018] [error] [client 5.255.250.81] File does not exist: /var/www/people/whanchoi/robots.txt
+[Sun Nov 25 06:39:30 2018] [error] [client 157.55.39.204] File does not exist: /var/www/people/whanchoi/doeconomicsanctionsimpairtargeteconomies.pdf
+[Sun Nov 25 09:49:54 2018] [error] [client 103.131.71.81] File does not exist: /var/www/people/whanchoi/robots.txt
+[Sun Nov 25 11:34:00 2018] [error] [client 40.77.167.30] File does not exist: /var/www/people/whanchoi/Chapter5.pdf
+[Sun Nov 25 11:45:01 2018] [error] [client 5.255.250.81] File does not exist: /var/www/people/whanchoi/robots.txt
+[Sun Nov 25 13:44:41 2018] [error] [client 207.98.192.55] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/
+[Sun Nov 25 13:56:42 2018] [error] [client 66.249.69.100] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Sun Nov 25 14:13:44 2018] [error] [client 73.110.19.63] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/
+[Sun Nov 25 14:15:13 2018] [error] [client 209.51.77.155] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/WhyDoesTheUSInterveneAbroad.pdf
+[Sun Nov 25 14:17:45 2018] [error] [client 106.69.210.35] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Sun Nov 25 14:17:46 2018] [error] [client 106.69.210.35] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Sun Nov 25 15:52:03 2018] [error] [client 108.207.149.22] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/
+[Sun Nov 25 15:53:33 2018] [error] [client 66.249.69.104] File does not exist: /var/www/people/whanchoi/robots.txt
+[Sun Nov 25 15:53:54 2018] [error] [client 66.249.69.102] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Sun Nov 25 15:56:21 2018] [error] [client 144.76.81.72] File does not exist: /var/www/people/whanchoi/robots.txt
+[Sun Nov 25 17:28:25 2018] [error] [client 5.255.250.81] File does not exist: /var/www/people/whanchoi/robots.txt
+[Sun Nov 25 20:57:52 2018] [error] [client 71.90.119.152] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Sun Nov 25 21:11:25 2018] [error] [client 42.49.109.238] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Sun Nov 25 22:02:00 2018] [error] [client 66.249.69.102] File does not exist: /var/www/people/whanchoi/robots.txt
+[Sun Nov 25 22:08:04 2018] [error] [client 180.154.63.30] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Sun Nov 25 22:08:05 2018] [error] [client 180.154.63.30] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Sun Nov 25 22:08:06 2018] [error] [client 180.154.63.30] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Sun Nov 25 22:08:07 2018] [error] [client 180.154.63.30] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Sun Nov 25 22:08:08 2018] [error] [client 180.154.63.30] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Sun Nov 25 22:08:09 2018] [error] [client 180.154.63.30] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Sun Nov 25 22:08:14 2018] [error] [client 180.154.63.30] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Sun Nov 25 22:08:16 2018] [error] [client 180.154.63.30] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Sun Nov 25 22:08:18 2018] [error] [client 180.154.63.30] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Sun Nov 25 22:08:20 2018] [error] [client 180.154.63.30] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Sun Nov 25 22:08:23 2018] [error] [client 180.154.63.30] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Sun Nov 25 22:08:24 2018] [error] [client 180.154.63.30] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Sun Nov 25 23:08:29 2018] [error] [client 130.68.183.14] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/EthnicGroupsPoliticalExclusionAndDomesticTerrorism.pdf
+[Mon Nov 26 00:30:50 2018] [error] [client 90.113.45.206] File does not exist: /var/www/people/whanchoi/9418C92973C9
+[Mon Nov 26 00:46:24 2018] [error] [client 63.158.47.177] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/
+[Mon Nov 26 01:15:04 2018] [error] [client 5.255.250.81] File does not exist: /var/www/people/whanchoi/robots.txt
+[Mon Nov 26 03:10:53 2018] [error] [client 40.77.167.30] File does not exist: /var/www/people/whanchoi/EconomicCausesofFemaleSuicideTerrorism.pdf
+[Mon Nov 26 04:42:08 2018] [error] [client 66.249.69.100] File does not exist: /var/www/people/whanchoi/robots.txt
+[Mon Nov 26 04:42:31 2018] [error] [client 66.249.69.100] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Mon Nov 26 04:47:12 2018] [warn] RSA server certificate CommonName (CN) `people.uic.edu' does NOT match server name!?
+[Mon Nov 26 05:06:29 2018] [error] [client 108.28.35.54] File does not exist: /var/www/people/whanchoi/apple-touch-icon-120x120-precomposed.png
+[Mon Nov 26 05:06:29 2018] [error] [client 108.28.35.54] File does not exist: /var/www/people/whanchoi/apple-touch-icon-120x120.png
+[Mon Nov 26 05:06:29 2018] [error] [client 108.28.35.54] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Mon Nov 26 05:06:29 2018] [error] [client 108.28.35.54] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Mon Nov 26 05:06:30 2018] [error] [client 108.28.35.54] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Mon Nov 26 05:06:30 2018] [error] [client 108.28.35.54] File does not exist: /var/www/people/whanchoi/apple-touch-icon-120x120-precomposed.png
+[Mon Nov 26 05:06:30 2018] [error] [client 108.28.35.54] File does not exist: /var/www/people/whanchoi/apple-touch-icon-120x120.png
+[Mon Nov 26 05:06:30 2018] [error] [client 108.28.35.54] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Mon Nov 26 05:06:30 2018] [error] [client 108.28.35.54] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Mon Nov 26 05:06:30 2018] [error] [client 108.28.35.54] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Mon Nov 26 06:18:01 2018] [error] [client 5.255.250.81] File does not exist: /var/www/people/whanchoi/robots.txt
+[Mon Nov 26 06:41:39 2018] [error] [client 54.36.150.108] File does not exist: /var/www/people/whanchoi/robots.txt
+[Mon Nov 26 07:22:04 2018] [error] [client 86.9.213.214] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/EthnicGroupsPoliticalExclusionAndDomesticTerrorism.pdf
+[Mon Nov 26 07:37:15 2018] [error] [client 106.69.210.35] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Mon Nov 26 11:10:16 2018] [error] [client 176.122.179.101] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Mon Nov 26 12:15:55 2018] [error] [client 5.255.250.81] File does not exist: /var/www/people/whanchoi/robots.txt
+[Mon Nov 26 13:53:51 2018] [error] [client 157.55.39.122] File does not exist: /var/www/people/whanchoi/Chapter11.pdf
+[Mon Nov 26 16:17:53 2018] [error] [client 46.229.168.149] File does not exist: /var/www/people/whanchoi/robots.txt
+[Mon Nov 26 16:17:54 2018] [error] [client 46.229.168.139] File does not exist: /var/www/people/whanchoi/sitemap.xml
+[Mon Nov 26 17:37:25 2018] [error] [client 157.55.39.13] File does not exist: /var/www/people/whanchoi/robots.txt
+[Mon Nov 26 17:37:26 2018] [error] [client 157.55.39.204] File does not exist: /var/www/people/whanchoi/internallydisplacedpopulationsandsuicideterrorism.pdf
+[Mon Nov 26 17:53:26 2018] [error] [client 5.255.250.81] File does not exist: /var/www/people/whanchoi/robots.txt
+[Mon Nov 26 18:18:39 2018] [error] [client 157.55.39.122] File does not exist: /var/www/people/whanchoi/robots.txt
+[Mon Nov 26 20:22:16 2018] [error] [client 71.163.7.197] File does not exist: /var/www/people/whanchoi/apple-touch-icon-120x120-precomposed.png
+[Mon Nov 26 20:22:16 2018] [error] [client 71.163.7.197] File does not exist: /var/www/people/whanchoi/apple-touch-icon-120x120.png
+[Mon Nov 26 20:22:16 2018] [error] [client 71.163.7.197] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Mon Nov 26 20:22:16 2018] [error] [client 71.163.7.197] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Mon Nov 26 20:22:16 2018] [error] [client 71.163.7.197] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Mon Nov 26 20:22:16 2018] [error] [client 71.163.7.197] File does not exist: /var/www/people/whanchoi/apple-touch-icon-120x120-precomposed.png
+[Mon Nov 26 20:22:16 2018] [error] [client 71.163.7.197] File does not exist: /var/www/people/whanchoi/apple-touch-icon-120x120.png
+[Mon Nov 26 20:22:17 2018] [error] [client 71.163.7.197] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Mon Nov 26 20:22:17 2018] [error] [client 71.163.7.197] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Mon Nov 26 20:22:17 2018] [error] [client 71.163.7.197] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Mon Nov 26 21:00:03 2018] [error] [client 218.107.17.38] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Mon Nov 26 21:33:16 2018] [error] [client 157.55.39.9] File does not exist: /var/www/people/whanchoi/robots.txt
+[Mon Nov 26 21:33:24 2018] [error] [client 157.55.39.122] File does not exist: /var/www/people/whanchoi/Choi,2009,QJPS_one.pdf
+[Mon Nov 26 21:37:16 2018] [error] [client 157.55.39.122] File does not exist: /var/www/people/whanchoi/curriculumvitae.pdf
+[Mon Nov 26 22:25:11 2018] [error] [client 47.200.7.50] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/WhyDoesTheUSInterveneAbroad.pdf
+[Mon Nov 26 23:12:10 2018] [error] [client 124.160.213.217] File does not exist: /var/www/people/whanchoi/apple-touch-icon-120x120-precomposed.png
+[Mon Nov 26 23:12:11 2018] [error] [client 124.160.213.217] File does not exist: /var/www/people/whanchoi/apple-touch-icon-120x120.png
+[Mon Nov 26 23:12:11 2018] [error] [client 124.160.213.217] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Mon Nov 26 23:12:12 2018] [error] [client 124.160.213.217] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Mon Nov 26 23:12:13 2018] [error] [client 124.160.213.217] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Mon Nov 26 23:12:14 2018] [error] [client 124.160.213.217] File does not exist: /var/www/people/whanchoi/apple-touch-icon-120x120-precomposed.png
+[Mon Nov 26 23:12:15 2018] [error] [client 124.160.213.217] File does not exist: /var/www/people/whanchoi/apple-touch-icon-120x120.png
+[Mon Nov 26 23:12:16 2018] [error] [client 124.160.213.217] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Mon Nov 26 23:12:16 2018] [error] [client 124.160.213.217] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Mon Nov 26 23:12:17 2018] [error] [client 124.160.213.217] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Mon Nov 26 23:22:38 2018] [error] [client 130.18.131.223] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Mon Nov 26 23:45:07 2018] [error] [client 66.249.69.102] File does not exist: /var/www/people/whanchoi/robots.txt
+[Tue Nov 27 00:01:38 2018] [error] [client 5.255.250.81] File does not exist: /var/www/people/whanchoi/robots.txt
+[Tue Nov 27 00:01:42 2018] [error] [client 5.255.250.81] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Tue Nov 27 00:28:04 2018] [error] [client 66.249.69.100] File does not exist: /var/www/people/whanchoi/robots.txt
+[Tue Nov 27 00:42:29 2018] [error] [client 49.195.44.91] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Tue Nov 27 01:22:43 2018] [error] [client 115.239.216.168] File does not exist: /var/www/people/whanchoi/ChoiandLuo,2013,II.pdf
+[Tue Nov 27 01:29:21 2018] [error] [client 115.239.213.154] File does not exist: /var/www/people/whanchoi/ChoiandLuo,2013,II.pdf
+[Tue Nov 27 03:33:58 2018] [warn] RSA server certificate CommonName (CN) `people.uic.edu' does NOT match server name!?
+[Tue Nov 27 03:46:48 2018] [error] [client 42.49.109.238] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Tue Nov 27 05:35:44 2018] [error] [client 157.55.39.204] File does not exist: /var/www/people/whanchoi/doeconomicsanctionsimpairtargeteconomies.pdf
+[Tue Nov 27 07:01:34 2018] [error] [client 54.36.150.108] File does not exist: /var/www/people/whanchoi/robots.txt
+[Tue Nov 27 07:07:32 2018] [error] [client 115.239.215.93] File does not exist: /var/www/people/whanchoi/ChoiandLuo,2013,II.pdf
+[Tue Nov 27 07:08:24 2018] [error] [client 115.239.212.169] File does not exist: /var/www/people/whanchoi/ChoiandLuo,2013,II.pdf
+[Tue Nov 27 07:09:47 2018] [error] [client 115.239.213.139] File does not exist: /var/www/people/whanchoi/ChoiandLuo,2013,II.pdf
+[Tue Nov 27 07:40:12 2018] [error] [client 103.131.71.73] File does not exist: /var/www/people/whanchoi/robots.txt
+[Tue Nov 27 08:03:05 2018] [error] [client 40.77.167.30] File does not exist: /var/www/people/whanchoi/foreignmilitaryinterventionsandsuicideattacks.pdf
+[Tue Nov 27 09:07:29 2018] [error] [client 5.255.250.81] File does not exist: /var/www/people/whanchoi/robots.txt
+[Tue Nov 27 09:49:00 2018] [error] [client 166.113.0.55] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/WhyDoesTheUSInterveneAbroad.pdf
+[Tue Nov 27 10:15:23 2018] [error] [client 66.249.69.100] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Tue Nov 27 10:50:35 2018] [error] [client 106.69.210.35] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Tue Nov 27 11:06:23 2018] [error] [client 18.208.149.202] File does not exist: /var/www/people/whanchoi/Choi,2013,CMPS.pdf
+[Tue Nov 27 11:21:44 2018] [error] [client 40.77.167.76] File does not exist: /var/www/people/whanchoi/ethnicgroupspoliticalexclusionanddomesticterrorism.pdf
+[Tue Nov 27 11:54:38 2018] [error] [client 115.239.214.229] File does not exist: /var/www/people/whanchoi/ChoiandLuo,2013,II.pdf
+[Tue Nov 27 11:55:29 2018] [error] [client 115.239.215.121] File does not exist: /var/www/people/whanchoi/ChoiandLuo,2013,II.pdf
+[Tue Nov 27 11:56:06 2018] [error] [client 115.239.212.249] File does not exist: /var/www/people/whanchoi/ChoiandLuo,2013,II.pdf
+[Tue Nov 27 12:03:20 2018] [error] [client 107.77.204.70] File does not exist: /var/www/people/whanchoi/apple-touch-icon-120x120-precomposed.png
+[Tue Nov 27 12:03:20 2018] [error] [client 107.77.204.70] File does not exist: /var/www/people/whanchoi/apple-touch-icon-120x120.png
+[Tue Nov 27 12:03:21 2018] [error] [client 107.77.204.70] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Tue Nov 27 12:03:21 2018] [error] [client 107.77.204.70] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Tue Nov 27 12:03:21 2018] [error] [client 107.77.204.70] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Tue Nov 27 12:03:21 2018] [error] [client 107.77.204.70] File does not exist: /var/www/people/whanchoi/apple-touch-icon-120x120-precomposed.png
+[Tue Nov 27 12:03:22 2018] [error] [client 107.77.204.70] File does not exist: /var/www/people/whanchoi/apple-touch-icon-120x120.png
+[Tue Nov 27 12:03:22 2018] [error] [client 107.77.204.70] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Tue Nov 27 12:03:22 2018] [error] [client 107.77.204.70] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Tue Nov 27 12:03:23 2018] [error] [client 107.77.204.70] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Tue Nov 27 13:09:02 2018] [error] [client 66.249.69.100] File does not exist: /var/www/people/whanchoi/robots.txt
+[Tue Nov 27 14:20:47 2018] [error] [client 131.193.132.242] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/
+[Tue Nov 27 14:37:20 2018] [error] [client 66.249.69.104] File does not exist: /var/www/people/whanchoi/robots.txt
+[Tue Nov 27 18:43:11 2018] [error] [client 99.254.118.63] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/
+[Tue Nov 27 18:53:36 2018] [error] [client 131.193.104.253] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/research.html
+[Tue Nov 27 19:47:18 2018] [error] [client 5.255.250.81] File does not exist: /var/www/people/whanchoi/robots.txt
+[Tue Nov 27 20:31:23 2018] [error] [client 42.49.109.238] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Tue Nov 27 20:50:06 2018] [error] [client 134.161.171.3] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/InternallyDisplacedPopulationsAndSuicideTerrorism.pdf
+[Tue Nov 27 22:00:40 2018] [error] [client 157.55.39.170] File does not exist: /var/www/people/whanchoi/whydoestheusinterveneabroad.pdf
+[Tue Nov 27 22:06:42 2018] [error] [client 157.55.39.173] File does not exist: /var/www/people/whanchoi/ChoiandLuo,2013,II.pdf
+[Tue Nov 27 22:35:40 2018] [error] [client 24.61.9.192] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/
+[Tue Nov 27 22:50:15 2018] [warn] RSA server certificate CommonName (CN) `people.uic.edu' does NOT match server name!?
+[Tue Nov 27 23:08:36 2018] [error] [client 157.55.39.173] File does not exist: /var/www/people/whanchoi/amenacetothedemocraticpeace.pdf
+[Tue Nov 27 23:25:36 2018] [error] [client 115.239.216.178] File does not exist: /var/www/people/whanchoi/ChoiandLuo,2013,II.pdf
+[Tue Nov 27 23:34:48 2018] [error] [client 115.239.216.140] File does not exist: /var/www/people/whanchoi/ChoiandLuo,2013,II.pdf
+[Tue Nov 27 23:59:05 2018] [error] [client 213.174.148.161] File does not exist: /var/www/people/whanchoi/robots.txt
+[Wed Nov 28 00:06:02 2018] [error] [client 5.255.250.81] File does not exist: /var/www/people/whanchoi/robots.txt
+[Wed Nov 28 01:19:59 2018] [error] [client 49.195.44.91] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Wed Nov 28 01:35:41 2018] [error] [client 49.195.44.91] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Wed Nov 28 01:56:51 2018] [error] [client 66.249.69.104] File does not exist: /var/www/people/whanchoi/robots.txt
+[Wed Nov 28 02:31:04 2018] [error] [client 66.249.69.102] File does not exist: /var/www/people/whanchoi/Chapter12.pdf
+[Wed Nov 28 03:21:07 2018] [error] [client 66.249.69.100] File does not exist: /var/www/people/whanchoi/robots.txt
+[Wed Nov 28 03:21:07 2018] [error] [client 66.249.69.100] File does not exist: /var/www/people/whanchoi/Keiser,Mueser,andChoi,2004,AJPS.pdf
+[Wed Nov 28 03:48:21 2018] [error] [client 100.43.91.126] File does not exist: /var/www/people/whanchoi/robots.txt
+[Wed Nov 28 03:48:39 2018] [error] [client 157.55.39.13] File does not exist: /var/www/people/whanchoi/robots.txt
+[Wed Nov 28 04:09:29 2018] [warn] RSA server certificate CommonName (CN) `people.uic.edu' does NOT match server name!?
+[Wed Nov 28 04:24:01 2018] [error] [client 41.80.78.97] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/InternallyDisplacedPopulationsAndSuicideTerrorism.pdf
+[Wed Nov 28 04:35:12 2018] [error] [client 124.160.214.167] File does not exist: /var/www/people/whanchoi/apple-touch-icon-120x120-precomposed.png
+[Wed Nov 28 04:35:13 2018] [error] [client 124.160.214.167] File does not exist: /var/www/people/whanchoi/apple-touch-icon-120x120.png
+[Wed Nov 28 04:35:14 2018] [error] [client 124.160.214.167] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Wed Nov 28 04:35:15 2018] [error] [client 124.160.214.167] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Wed Nov 28 04:35:16 2018] [error] [client 124.160.214.167] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Wed Nov 28 04:35:16 2018] [error] [client 124.160.214.167] File does not exist: /var/www/people/whanchoi/apple-touch-icon-120x120-precomposed.png
+[Wed Nov 28 04:35:17 2018] [error] [client 124.160.214.167] File does not exist: /var/www/people/whanchoi/apple-touch-icon-120x120.png
+[Wed Nov 28 04:35:18 2018] [error] [client 124.160.214.167] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Wed Nov 28 04:35:19 2018] [error] [client 124.160.214.167] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Wed Nov 28 04:35:20 2018] [error] [client 124.160.214.167] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Wed Nov 28 05:58:10 2018] [error] [client 41.80.78.97] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/InternallyDisplacedPopulationsAndSuicideTerrorism.pdf
+[Wed Nov 28 05:58:50 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/apple-touch-icon-120x120-precomposed.png
+[Wed Nov 28 05:58:51 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/apple-touch-icon-120x120.png
+[Wed Nov 28 05:58:52 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Wed Nov 28 05:58:53 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Wed Nov 28 05:58:54 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Wed Nov 28 05:58:55 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/apple-touch-icon-120x120-precomposed.png
+[Wed Nov 28 05:58:56 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/apple-touch-icon-120x120.png
+[Wed Nov 28 05:58:59 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Wed Nov 28 05:59:00 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Wed Nov 28 05:59:02 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Wed Nov 28 07:10:37 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Wed Nov 28 07:10:38 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Wed Nov 28 07:10:39 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Wed Nov 28 07:10:40 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Wed Nov 28 07:10:42 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Wed Nov 28 07:10:43 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Wed Nov 28 07:10:47 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Wed Nov 28 07:10:48 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Wed Nov 28 07:10:49 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Wed Nov 28 07:10:50 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Wed Nov 28 07:10:51 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Wed Nov 28 07:10:52 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Wed Nov 28 08:06:27 2018] [error] [client 157.55.39.171] File does not exist: /var/www/people/whanchoi/internallydisplacedpopulationsandsuicideterrorism.pdf
+[Wed Nov 28 08:43:42 2018] [error] [client 176.122.179.101] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Wed Nov 28 09:14:20 2018] [error] [client 78.98.48.217] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Wed Nov 28 09:14:20 2018] [error] [client 78.98.48.217] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Wed Nov 28 09:14:21 2018] [error] [client 78.98.48.217] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Wed Nov 28 09:14:21 2018] [error] [client 78.98.48.217] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Wed Nov 28 09:14:22 2018] [error] [client 78.98.48.217] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Wed Nov 28 09:14:23 2018] [error] [client 78.98.48.217] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Wed Nov 28 09:14:25 2018] [error] [client 78.98.48.217] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Wed Nov 28 09:14:26 2018] [error] [client 78.98.48.217] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Wed Nov 28 09:14:26 2018] [error] [client 78.98.48.217] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Wed Nov 28 09:14:27 2018] [error] [client 78.98.48.217] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Wed Nov 28 09:14:27 2018] [error] [client 78.98.48.217] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Wed Nov 28 09:14:28 2018] [error] [client 78.98.48.217] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Wed Nov 28 10:13:13 2018] [error] [client 5.255.250.81] File does not exist: /var/www/people/whanchoi/robots.txt
+[Wed Nov 28 10:23:54 2018] [error] [client 102.166.218.38] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/EthnicGroupsPoliticalExclusionAndDomesticTerrorism.pdf
+[Wed Nov 28 10:44:22 2018] [error] [client 78.98.48.217] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Wed Nov 28 10:44:23 2018] [error] [client 78.98.48.217] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Wed Nov 28 10:44:23 2018] [error] [client 78.98.48.217] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Wed Nov 28 10:44:24 2018] [error] [client 78.98.48.217] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Wed Nov 28 10:44:24 2018] [error] [client 78.98.48.217] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Wed Nov 28 10:44:25 2018] [error] [client 78.98.48.217] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Wed Nov 28 10:44:27 2018] [error] [client 78.98.48.217] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Wed Nov 28 10:44:27 2018] [error] [client 78.98.48.217] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Wed Nov 28 10:44:28 2018] [error] [client 78.98.48.217] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Wed Nov 28 10:44:28 2018] [error] [client 78.98.48.217] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Wed Nov 28 10:44:29 2018] [error] [client 78.98.48.217] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Wed Nov 28 10:44:29 2018] [error] [client 78.98.48.217] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Wed Nov 28 11:16:39 2018] [error] [client 157.55.39.172] File does not exist: /var/www/people/whanchoi/EconomicCausesofFemaleSuicideTerrorism.pdf
+[Wed Nov 28 11:28:20 2018] [error] [client 115.239.214.163] File does not exist: /var/www/people/whanchoi/ChoiandLuo,2013,II.pdf
+[Wed Nov 28 11:30:23 2018] [error] [client 115.239.213.169] File does not exist: /var/www/people/whanchoi/ChoiandLuo,2013,II.pdf
+[Wed Nov 28 11:32:18 2018] [error] [client 115.239.213.80] File does not exist: /var/www/people/whanchoi/ChoiandLuo,2013,II.pdf
+[Wed Nov 28 11:39:06 2018] [warn] RSA server certificate CommonName (CN) `people.uic.edu' does NOT match server name!?
+[Wed Nov 28 12:31:33 2018] [error] [client 5.255.250.81] File does not exist: /var/www/people/whanchoi/robots.txt
+[Wed Nov 28 12:57:08 2018] [error] [client 115.239.213.177] File does not exist: /var/www/people/whanchoi/ChoiandLuo,2013,II.pdf
+[Wed Nov 28 12:59:26 2018] [error] [client 115.239.215.210] File does not exist: /var/www/people/whanchoi/ChoiandLuo,2013,II.pdf
+[Wed Nov 28 13:01:35 2018] [error] [client 115.239.213.163] File does not exist: /var/www/people/whanchoi/ChoiandLuo,2013,II.pdf
+[Wed Nov 28 14:12:03 2018] [error] [client 13.66.139.1] File does not exist: /var/www/people/whanchoi/robots.txt
+[Wed Nov 28 14:12:06 2018] [error] [client 13.66.139.0] File does not exist: /var/www/people/whanchoi/ChoiandSamy,2008,FPA.pdf
+[Wed Nov 28 15:02:11 2018] [warn] RSA server certificate CommonName (CN) `people.uic.edu' does NOT match server name!?
+[Wed Nov 28 15:19:17 2018] [error] [client 197.180.67.110] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/LegislativeConstraints:APathtoPeace.pdf
+[Wed Nov 28 16:09:41 2018] [error] [client 5.255.250.81] File does not exist: /var/www/people/whanchoi/robots.txt
+[Wed Nov 28 16:19:58 2018] [error] [client 66.249.75.36] File does not exist: /var/www/people/whanchoi/robots.txt
+[Wed Nov 28 16:45:56 2018] [error] [client 157.55.39.170] File does not exist: /var/www/people/whanchoi/Choi,2009,QJPS_one.pdf
+[Wed Nov 28 16:59:33 2018] [error] [client 80.1.149.194] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/WhyDoesTheUSInterveneAbroad.pdf
+[Wed Nov 28 18:31:47 2018] [error] [client 67.165.160.238] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/
+[Wed Nov 28 19:37:54 2018] [error] [client 67.209.77.124] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/WhyDoesTheUSInterveneAbroad.pdf
+[Wed Nov 28 20:21:36 2018] [error] [client 100.34.138.95] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/WhyDoesTheUSInterveneAbroad.pdf
+[Wed Nov 28 20:23:30 2018] [error] [client 42.49.109.238] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Wed Nov 28 21:43:59 2018] [error] [client 100.43.91.126] File does not exist: /var/www/people/whanchoi/robots.txt
+[Wed Nov 28 22:28:16 2018] [error] [client 157.55.39.171] File does not exist: /var/www/people/whanchoi/Chapter7.pdf
+[Wed Nov 28 22:45:49 2018] [error] [client 157.55.39.9] File does not exist: /var/www/people/whanchoi/robots.txt
+[Wed Nov 28 22:45:54 2018] [error] [client 157.55.39.172] File does not exist: /var/www/people/whanchoi/foreignmilitaryinterventionsandsuicideattacks.pdf
+[Wed Nov 28 23:09:10 2018] [error] [client 141.161.133.152] File does not exist: /var/www/people/whanchoi/Choi and Luo, 2013, II.pdf
+[Wed Nov 28 23:35:24 2018] [error] [client 66.249.75.40] File does not exist: /var/www/people/whanchoi/robots.txt
+[Thu Nov 29 02:31:14 2018] [error] [client 157.55.39.170] File does not exist: /var/www/people/whanchoi/curriculumvitae.pdf
+[Thu Nov 29 03:32:06 2018] [error] [client 100.43.91.126] File does not exist: /var/www/people/whanchoi/robots.txt
+[Thu Nov 29 03:45:52 2018] [warn] RSA server certificate CommonName (CN) `people.uic.edu' does NOT match server name!?
+[Thu Nov 29 04:53:59 2018] [error] [client 180.116.150.118] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Thu Nov 29 05:39:42 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Thu Nov 29 05:39:43 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Thu Nov 29 05:39:44 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Thu Nov 29 05:39:45 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Thu Nov 29 05:39:46 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Thu Nov 29 05:39:47 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Thu Nov 29 05:39:51 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Thu Nov 29 05:39:52 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Thu Nov 29 05:39:53 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Thu Nov 29 05:39:54 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Thu Nov 29 05:39:55 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Thu Nov 29 05:39:56 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Thu Nov 29 05:56:38 2018] [error] [client 157.55.39.171] File does not exist: /var/www/people/whanchoi/doeconomicsanctionsimpairtargeteconomies.pdf
+[Thu Nov 29 06:34:55 2018] [error] [client 100.43.91.126] File does not exist: /var/www/people/whanchoi/robots.txt
+[Thu Nov 29 06:47:59 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Thu Nov 29 06:48:00 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Thu Nov 29 06:48:01 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Thu Nov 29 06:48:02 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Thu Nov 29 06:48:03 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Thu Nov 29 06:48:04 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Thu Nov 29 06:48:08 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Thu Nov 29 06:48:09 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Thu Nov 29 06:48:10 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Thu Nov 29 06:48:11 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Thu Nov 29 06:48:12 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Thu Nov 29 06:48:12 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Thu Nov 29 06:54:33 2018] [error] [client 66.249.75.36] File does not exist: /var/www/people/whanchoi/robots.txt
+[Thu Nov 29 06:54:37 2018] [error] [client 66.249.75.36] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Thu Nov 29 08:13:03 2018] [error] [client 157.55.39.173] File does not exist: /var/www/people/whanchoi/ethnicgroupspoliticalexclusionanddomesticterrorism.pdf
+[Thu Nov 29 08:17:17 2018] [error] [client 124.160.214.155] File does not exist: /var/www/people/whanchoi/apple-touch-icon-120x120-precomposed.png
+[Thu Nov 29 08:17:18 2018] [error] [client 124.160.214.155] File does not exist: /var/www/people/whanchoi/apple-touch-icon-120x120.png
+[Thu Nov 29 08:17:19 2018] [error] [client 124.160.214.155] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Thu Nov 29 08:17:20 2018] [error] [client 124.160.214.155] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Thu Nov 29 08:17:21 2018] [error] [client 124.160.214.155] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Thu Nov 29 08:17:22 2018] [error] [client 124.160.214.155] File does not exist: /var/www/people/whanchoi/apple-touch-icon-120x120-precomposed.png
+[Thu Nov 29 08:17:22 2018] [error] [client 124.160.214.155] File does not exist: /var/www/people/whanchoi/apple-touch-icon-120x120.png
+[Thu Nov 29 08:17:23 2018] [error] [client 124.160.214.155] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Thu Nov 29 08:17:24 2018] [error] [client 124.160.214.155] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Thu Nov 29 08:17:25 2018] [error] [client 124.160.214.155] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Thu Nov 29 09:20:03 2018] [error] [client 69.193.220.62] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/
+[Thu Nov 29 10:36:17 2018] [error] [client 131.193.132.242] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/
+[Thu Nov 29 11:08:47 2018] [error] [client 157.55.39.9] File does not exist: /var/www/people/whanchoi/robots.txt
+[Thu Nov 29 11:30:03 2018] [error] [client 35.225.18.99] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/
+[Thu Nov 29 11:37:39 2018] [error] [client 68.44.195.2] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/EthnicGroupsPoliticalExclusionAndDomesticTerrorism.pdf
+[Thu Nov 29 12:15:03 2018] [error] [client 134.161.171.3] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/InternallyDisplacedPopulationsAndSuicideTerrorism.pdf
+[Thu Nov 29 12:25:40 2018] [error] [client 66.249.75.38] File does not exist: /var/www/people/whanchoi/robots.txt
+[Thu Nov 29 13:29:09 2018] [error] [client 157.55.39.170] File does not exist: /var/www/people/whanchoi/whydoestheusinterveneabroad.pdf
+[Thu Nov 29 14:53:10 2018] [error] [client 157.55.39.173] File does not exist: /var/www/people/whanchoi/amenacetothedemocraticpeace.pdf
+[Thu Nov 29 16:31:16 2018] [error] [client 100.43.91.126] File does not exist: /var/www/people/whanchoi/robots.txt
+[Thu Nov 29 17:38:10 2018] [error] [client 213.174.148.161] File does not exist: /var/www/people/whanchoi/robots.txt
+[Thu Nov 29 18:08:22 2018] [error] [client 95.216.75.56] File does not exist: /var/www/people/whanchoi/Choi,2010,JCR_two.pdf, referer: http://whanchoi.people.uic.edu/Choi,2010,JCR_two.pdf
+[Thu Nov 29 18:08:23 2018] [error] [client 95.216.75.56] File does not exist: /var/www/people/whanchoi/Choi,2010,JCR_two.pdf, referer: http://whanchoi.people.uic.edu/Choi,2010,JCR_two.pdf
+[Thu Nov 29 20:49:22 2018] [error] [client 136.243.89.157] File does not exist: /var/www/people/whanchoi/robots.txt, referer: http://whanchoi.people.uic.edu/robots.txt
+[Thu Nov 29 21:14:07 2018] [warn] RSA server certificate CommonName (CN) `people.uic.edu' does NOT match server name!?
+[Thu Nov 29 23:15:49 2018] [error] [client 66.249.69.104] File does not exist: /var/www/people/whanchoi/robots.txt
+[Thu Nov 29 23:39:32 2018] [error] [client 5.255.250.81] File does not exist: /var/www/people/whanchoi/robots.txt
+[Fri Nov 30 00:27:16 2018] [error] [client 66.249.69.104] File does not exist: /var/www/people/whanchoi/robots.txt
+[Fri Nov 30 03:38:49 2018] [error] [client 207.46.13.187] File does not exist: /var/www/people/whanchoi/robots.txt
+[Fri Nov 30 03:45:48 2018] [error] [client 5.255.250.81] File does not exist: /var/www/people/whanchoi/robots.txt
+[Fri Nov 30 03:59:56 2018] [error] [client 157.55.39.13] File does not exist: /var/www/people/whanchoi/robots.txt
+[Fri Nov 30 04:09:31 2018] [warn] RSA server certificate CommonName (CN) `people.uic.edu' does NOT match server name!?
+[Fri Nov 30 06:16:10 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Fri Nov 30 06:16:12 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Fri Nov 30 06:16:13 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Fri Nov 30 07:18:19 2018] [error] [client 45.116.79.63] script not found or unable to stat: /var/www/people/whanchoi/xmlrpc.php
+[Fri Nov 30 07:33:03 2018] [error] [client 207.46.13.30] File does not exist: /var/www/people/whanchoi/internallydisplacedpopulationsandsuicideterrorism.pdf
+[Fri Nov 30 08:33:55 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Fri Nov 30 08:33:56 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Fri Nov 30 08:33:57 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Fri Nov 30 08:33:57 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Fri Nov 30 08:33:58 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Fri Nov 30 08:33:59 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Fri Nov 30 08:34:01 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Fri Nov 30 08:34:01 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Fri Nov 30 08:34:02 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Fri Nov 30 08:34:03 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Fri Nov 30 08:34:03 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Fri Nov 30 08:34:05 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Fri Nov 30 08:38:14 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/apple-touch-icon-120x120-precomposed.png
+[Fri Nov 30 08:38:16 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/apple-touch-icon-120x120.png
+[Fri Nov 30 08:38:17 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Fri Nov 30 08:38:19 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Fri Nov 30 08:38:21 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Fri Nov 30 08:38:23 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/apple-touch-icon-120x120-precomposed.png
+[Fri Nov 30 08:38:29 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/apple-touch-icon-120x120.png
+[Fri Nov 30 08:38:30 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Fri Nov 30 08:38:32 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Fri Nov 30 08:38:33 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Fri Nov 30 09:17:01 2018] [error] [client 100.43.91.126] File does not exist: /var/www/people/whanchoi/robots.txt
+[Fri Nov 30 09:55:11 2018] [error] [client 207.46.13.187] File does not exist: /var/www/people/whanchoi/Choi,2015,OEP.pdf
+[Fri Nov 30 11:25:02 2018] [error] [client 5.255.250.81] File does not exist: /var/www/people/whanchoi/robots.txt
+[Fri Nov 30 11:36:47 2018] [error] [client 66.249.69.102] File does not exist: /var/www/people/whanchoi/robots.txt
+[Fri Nov 30 14:03:50 2018] [error] [client 207.46.13.31] File does not exist: /var/www/people/whanchoi/EconomicCausesofFemaleSuicideTerrorism.pdf
+[Fri Nov 30 14:08:32 2018] [error] [client 131.193.149.114] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/
+[Fri Nov 30 15:09:50 2018] [error] [client 5.255.250.81] File does not exist: /var/www/people/whanchoi/robots.txt
+[Fri Nov 30 16:09:37 2018] [error] [client 115.239.213.144] File does not exist: /var/www/people/whanchoi/ChoiandLuo,2013,II.pdf
+[Fri Nov 30 16:09:38 2018] [error] [client 123.125.67.164] File does not exist: /var/www/people/whanchoi/robots.txt
+[Fri Nov 30 16:18:47 2018] [error] [client 115.239.213.247] File does not exist: /var/www/people/whanchoi/ChoiandLuo,2013,II.pdf
+[Fri Nov 30 18:59:44 2018] [error] [client 66.249.69.100] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Fri Nov 30 20:41:17 2018] [error] [client 4.14.83.179] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/DoesRestrictiveImmigrationPolicyReduceTerrorisminWesternDemocracies.pdf
+[Fri Nov 30 20:42:06 2018] [error] [client 157.55.39.107] File does not exist: /var/www/people/whanchoi/foreignmilitaryinterventionsandsuicideattacks.pdf
+[Fri Nov 30 20:58:55 2018] [error] [client 24.233.231.111] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/
+[Fri Nov 30 21:15:25 2018] [error] [client 5.255.250.81] File does not exist: /var/www/people/whanchoi/robots.txt
+[Fri Nov 30 21:28:44 2018] [error] [client 66.249.88.31] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Fri Nov 30 21:57:21 2018] [error] [client 115.239.215.70] File does not exist: /var/www/people/whanchoi/ChoiandLuo,2013,II.pdf
+[Fri Nov 30 21:58:11 2018] [error] [client 115.239.212.158] File does not exist: /var/www/people/whanchoi/ChoiandLuo,2013,II.pdf
+[Fri Nov 30 21:59:03 2018] [error] [client 115.239.216.171] File does not exist: /var/www/people/whanchoi/ChoiandLuo,2013,II.pdf
+[Fri Nov 30 22:54:56 2018] [error] [client 66.249.69.100] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Fri Nov 30 23:37:12 2018] [error] [client 207.46.13.62] File does not exist: /var/www/people/whanchoi/Chapter7.pdf
+[Sat Dec 01 03:07:42 2018] [error] [client 157.55.39.69] File does not exist: /var/www/people/whanchoi/curriculumvitae.pdf
+[Sat Dec 01 04:42:42 2018] [warn] RSA server certificate CommonName (CN) `people.uic.edu' does NOT match server name!?
+[Sat Dec 01 05:12:57 2018] [error] [client 5.255.250.81] File does not exist: /var/www/people/whanchoi/robots.txt
+[Sat Dec 01 05:36:47 2018] [error] [client 66.249.69.104] File does not exist: /var/www/people/whanchoi/robots.txt
+[Sat Dec 01 05:36:57 2018] [error] [client 66.249.69.102] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Sat Dec 01 05:43:50 2018] [error] [client 180.116.150.118] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Sat Dec 01 05:49:56 2018] [error] [client 66.249.69.102] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Sat Dec 01 07:07:00 2018] [error] [client 82.30.88.153] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Sat Dec 01 08:04:02 2018] [error] [client 157.55.39.69] File does not exist: /var/www/people/whanchoi/whydoestheusinterveneabroad.pdf
+[Sat Dec 01 08:49:14 2018] [error] [client 115.239.216.31] File does not exist: /var/www/people/whanchoi/ChoiandLuo,2013,II.pdf
+[Sat Dec 01 08:50:02 2018] [error] [client 115.239.215.167] File does not exist: /var/www/people/whanchoi/ChoiandLuo,2013,II.pdf
+[Sat Dec 01 08:50:53 2018] [error] [client 115.239.216.22] File does not exist: /var/www/people/whanchoi/ChoiandLuo,2013,II.pdf
+[Sat Dec 01 09:27:33 2018] [error] [client 157.55.39.105] File does not exist: /var/www/people/whanchoi/amenacetothedemocraticpeace.pdf
+[Sat Dec 01 09:31:36 2018] [error] [client 5.255.250.81] File does not exist: /var/www/people/whanchoi/robots.txt
+[Sat Dec 01 12:13:23 2018] [error] [client 54.208.102.37] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/favicon.ico
+[Sat Dec 01 12:13:23 2018] [error] [client 54.208.102.37] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/favicon.ico
+[Sat Dec 01 12:23:32 2018] [error] [client 66.249.69.104] File does not exist: /var/www/people/whanchoi/robots.txt
+[Sat Dec 01 12:29:23 2018] [error] [client 157.55.39.0] File does not exist: /var/www/people/whanchoi/robots.txt
+[Sat Dec 01 14:03:51 2018] [error] [client 71.70.73.106] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/
+[Sat Dec 01 14:04:22 2018] [error] [client 157.55.39.105] File does not exist: /var/www/people/whanchoi/ethnicgroupspoliticalexclusionanddomesticterrorism.pdf
+[Sat Dec 01 14:05:26 2018] [error] [client 157.55.39.16] File does not exist: /var/www/people/whanchoi/robots.txt
+[Sat Dec 01 14:27:14 2018] [error] [client 100.43.91.126] File does not exist: /var/www/people/whanchoi/robots.txt
+[Sat Dec 01 14:27:57 2018] [error] [client 108.28.35.54] File does not exist: /var/www/people/whanchoi/apple-touch-icon-120x120-precomposed.png
+[Sat Dec 01 14:27:57 2018] [error] [client 108.28.35.54] File does not exist: /var/www/people/whanchoi/apple-touch-icon-120x120.png
+[Sat Dec 01 14:27:57 2018] [error] [client 108.28.35.54] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Sat Dec 01 14:27:58 2018] [error] [client 108.28.35.54] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Sat Dec 01 14:27:58 2018] [error] [client 108.28.35.54] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Sat Dec 01 14:27:58 2018] [error] [client 108.28.35.54] File does not exist: /var/www/people/whanchoi/apple-touch-icon-120x120-precomposed.png
+[Sat Dec 01 14:27:58 2018] [error] [client 108.28.35.54] File does not exist: /var/www/people/whanchoi/apple-touch-icon-120x120.png
+[Sat Dec 01 14:27:58 2018] [error] [client 108.28.35.54] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Sat Dec 01 14:27:58 2018] [error] [client 108.28.35.54] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Sat Dec 01 14:27:58 2018] [error] [client 108.28.35.54] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Sat Dec 01 15:01:29 2018] [error] [client 157.55.39.69] File does not exist: /var/www/people/whanchoi/robots.txt
+[Sat Dec 01 17:36:40 2018] [error] [client 71.163.7.197] File does not exist: /var/www/people/whanchoi/apple-touch-icon-120x120-precomposed.png
+[Sat Dec 01 17:36:40 2018] [error] [client 71.163.7.197] File does not exist: /var/www/people/whanchoi/apple-touch-icon-120x120.png
+[Sat Dec 01 17:36:40 2018] [error] [client 71.163.7.197] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Sat Dec 01 17:36:40 2018] [error] [client 71.163.7.197] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Sat Dec 01 17:36:41 2018] [error] [client 71.163.7.197] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Sat Dec 01 17:36:41 2018] [error] [client 71.163.7.197] File does not exist: /var/www/people/whanchoi/apple-touch-icon-120x120-precomposed.png
+[Sat Dec 01 17:36:41 2018] [error] [client 71.163.7.197] File does not exist: /var/www/people/whanchoi/apple-touch-icon-120x120.png
+[Sat Dec 01 17:36:41 2018] [error] [client 71.163.7.197] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Sat Dec 01 17:36:41 2018] [error] [client 71.163.7.197] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Sat Dec 01 17:36:41 2018] [error] [client 71.163.7.197] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Sat Dec 01 19:06:55 2018] [error] [client 213.151.55.183] script not found or unable to stat: /var/www/people/whanchoi/wp-login.php
+[Sat Dec 01 21:33:52 2018] [error] [client 115.239.215.156] File does not exist: /var/www/people/whanchoi/ChoiandLuo,2013,II.pdf
+[Sat Dec 01 21:44:13 2018] [error] [client 115.239.214.138] File does not exist: /var/www/people/whanchoi/ChoiandLuo,2013,II.pdf
+[Sat Dec 01 22:36:05 2018] [error] [client 77.88.5.16] File does not exist: /var/www/people/whanchoi/robots.txt
+[Sun Dec 02 01:49:59 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Sun Dec 02 01:50:00 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Sun Dec 02 01:50:01 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Sun Dec 02 01:50:01 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Sun Dec 02 01:50:02 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Sun Dec 02 01:50:03 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Sun Dec 02 01:50:05 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Sun Dec 02 01:50:05 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Sun Dec 02 01:50:06 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Sun Dec 02 01:50:07 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Sun Dec 02 01:50:08 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Sun Dec 02 01:50:08 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Sun Dec 02 02:18:07 2018] [error] [client 66.249.69.100] File does not exist: /var/www/people/whanchoi/robots.txt
+[Sun Dec 02 02:18:25 2018] [error] [client 66.249.69.100] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Sun Dec 02 04:10:33 2018] [error] [client 100.43.91.126] File does not exist: /var/www/people/whanchoi/robots.txt
+[Sun Dec 02 04:52:56 2018] [warn] RSA server certificate CommonName (CN) `people.uic.edu' does NOT match server name!?
+[Sun Dec 02 07:28:42 2018] [error] [client 17.58.103.186] File does not exist: /var/www/people/whanchoi/robots.txt
+[Sun Dec 02 07:28:43 2018] [error] [client 17.58.103.186] File does not exist: /var/www/people/whanchoi/robots.txt
+[Sun Dec 02 08:01:14 2018] [error] [client 157.55.39.35] File does not exist: /var/www/people/whanchoi/robots.txt
+[Sun Dec 02 08:01:15 2018] [error] [client 157.55.39.28] File does not exist: /var/www/people/whanchoi/robots.txt
+[Sun Dec 02 08:27:19 2018] [error] [client 157.55.39.105] File does not exist: /var/www/people/whanchoi/ChoiandLuo,2013,II.pdf
+[Sun Dec 02 09:30:23 2018] [error] [client 5.255.250.81] File does not exist: /var/www/people/whanchoi/robots.txt
+[Sun Dec 02 09:50:17 2018] [warn] RSA server certificate CommonName (CN) `people.uic.edu' does NOT match server name!?
+[Sun Dec 02 13:42:46 2018] [error] [client 75.191.242.193] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/WhyDoesTheUSInterveneAbroad.pdf
+[Sun Dec 02 14:20:50 2018] [error] [client 46.229.168.143] File does not exist: /var/www/people/whanchoi/robots.txt
+[Sun Dec 02 14:20:50 2018] [error] [client 46.229.168.147] File does not exist: /var/www/people/whanchoi/sitemap.xml
+[Sun Dec 02 16:59:49 2018] [error] [client 5.255.250.81] File does not exist: /var/www/people/whanchoi/robots.txt
+[Sun Dec 02 18:30:43 2018] [error] [client 157.55.39.69] File does not exist: /var/www/people/whanchoi/Choi,2015,OEP.pdf
+[Sun Dec 02 18:53:06 2018] [error] [client 103.131.71.74] File does not exist: /var/www/people/whanchoi/robots.txt
+[Sun Dec 02 20:01:31 2018] [error] [client 157.55.39.107] File does not exist: /var/www/people/whanchoi/Chapter12.pdf
+[Sun Dec 02 22:14:34 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Sun Dec 02 22:14:35 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Sun Dec 02 22:14:35 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Sun Dec 02 22:14:36 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Sun Dec 02 22:14:37 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Sun Dec 02 22:14:37 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Sun Dec 02 22:14:39 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Sun Dec 02 22:14:40 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Sun Dec 02 22:14:41 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Sun Dec 02 22:14:41 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Sun Dec 02 22:14:42 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Sun Dec 02 22:14:42 2018] [error] [client 103.102.7.125] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Mon Dec 03 00:06:19 2018] [error] [client 66.249.83.215] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Mon Dec 03 00:10:36 2018] [error] [client 108.28.35.54] File does not exist: /var/www/people/whanchoi/apple-touch-icon-120x120-precomposed.png
+[Mon Dec 03 00:10:36 2018] [error] [client 108.28.35.54] File does not exist: /var/www/people/whanchoi/apple-touch-icon-120x120.png
+[Mon Dec 03 00:10:36 2018] [error] [client 108.28.35.54] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Mon Dec 03 00:10:36 2018] [error] [client 108.28.35.54] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Mon Dec 03 00:10:36 2018] [error] [client 108.28.35.54] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Mon Dec 03 00:10:37 2018] [error] [client 108.28.35.54] File does not exist: /var/www/people/whanchoi/apple-touch-icon-120x120-precomposed.png
+[Mon Dec 03 00:10:37 2018] [error] [client 108.28.35.54] File does not exist: /var/www/people/whanchoi/apple-touch-icon-120x120.png
+[Mon Dec 03 00:10:37 2018] [error] [client 108.28.35.54] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Mon Dec 03 00:10:37 2018] [error] [client 108.28.35.54] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Mon Dec 03 00:10:37 2018] [error] [client 108.28.35.54] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Mon Dec 03 01:07:49 2018] [error] [client 100.43.91.126] File does not exist: /var/www/people/whanchoi/robots.txt
+[Mon Dec 03 02:07:43 2018] [error] [client 66.249.69.104] File does not exist: /var/www/people/whanchoi/robots.txt
+[Mon Dec 03 04:53:14 2018] [error] [client 157.55.39.69] File does not exist: /var/www/people/whanchoi/Choi,2009,QJPS_one.pdf
+[Mon Dec 03 05:38:02 2018] [error] [client 218.107.17.38] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Mon Dec 03 05:49:16 2018] [warn] RSA server certificate CommonName (CN) `people.uic.edu' does NOT match server name!?
+[Mon Dec 03 07:17:20 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Mon Dec 03 07:17:21 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Mon Dec 03 07:17:22 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Mon Dec 03 07:17:24 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Mon Dec 03 07:17:25 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Mon Dec 03 07:17:26 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Mon Dec 03 07:17:32 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Mon Dec 03 07:17:33 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Mon Dec 03 07:17:34 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Mon Dec 03 07:17:35 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Mon Dec 03 07:17:35 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Mon Dec 03 07:17:36 2018] [error] [client 180.170.11.16] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Mon Dec 03 09:00:54 2018] [error] [client 100.43.91.126] File does not exist: /var/www/people/whanchoi/robots.txt
+[Mon Dec 03 09:33:25 2018] [error] [client 176.122.179.101] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Mon Dec 03 11:06:20 2018] [error] [client 35.232.220.6] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/
+[Mon Dec 03 11:26:11 2018] [error] [client 66.249.69.100] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Mon Dec 03 12:06:58 2018] [error] [client 157.55.39.35] File does not exist: /var/www/people/whanchoi/robots.txt
+[Mon Dec 03 12:20:56 2018] [error] [client 66.249.69.102] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Mon Dec 03 13:36:33 2018] [error] [client 66.249.69.104] File does not exist: /var/www/people/whanchoi/Chapter6.pdf
+[Mon Dec 03 14:24:55 2018] [error] [client 157.55.39.71] File does not exist: /var/www/people/whanchoi/robots.txt
+[Mon Dec 03 15:47:05 2018] [error] [client 40.77.167.133] File does not exist: /var/www/people/whanchoi/curriculumvitae.pdf
+[Mon Dec 03 16:01:11 2018] [error] [client 131.193.157.28] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/CurriculumVitae.pdf
+[Mon Dec 03 16:08:50 2018] [error] [client 5.255.250.81] File does not exist: /var/www/people/whanchoi/robots.txt
+[Mon Dec 03 20:16:45 2018] [error] [client 72.203.101.36] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/CurriculumVitae.pdf
+[Mon Dec 03 20:28:45 2018] [error] [client 157.55.39.39] File does not exist: /var/www/people/whanchoi/robots.txt
+[Mon Dec 03 21:46:37 2018] [error] [client 108.234.152.44] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/
+[Mon Dec 03 23:16:41 2018] [error] [client 66.249.75.38] File does not exist: /var/www/people/whanchoi/robots.txt
+[Mon Dec 03 23:58:58 2018] [error] [client 108.28.35.54] File does not exist: /var/www/people/whanchoi/apple-touch-icon-120x120-precomposed.png
+[Mon Dec 03 23:58:58 2018] [error] [client 108.28.35.54] File does not exist: /var/www/people/whanchoi/apple-touch-icon-120x120.png
+[Mon Dec 03 23:58:58 2018] [error] [client 108.28.35.54] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Mon Dec 03 23:58:58 2018] [error] [client 108.28.35.54] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Mon Dec 03 23:58:58 2018] [error] [client 108.28.35.54] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Mon Dec 03 23:58:58 2018] [error] [client 108.28.35.54] File does not exist: /var/www/people/whanchoi/apple-touch-icon-120x120-precomposed.png
+[Mon Dec 03 23:58:59 2018] [error] [client 108.28.35.54] File does not exist: /var/www/people/whanchoi/apple-touch-icon-120x120.png
+[Mon Dec 03 23:58:59 2018] [error] [client 108.28.35.54] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Mon Dec 03 23:58:59 2018] [error] [client 108.28.35.54] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Mon Dec 03 23:58:59 2018] [error] [client 108.28.35.54] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Tue Dec 04 00:19:46 2018] [error] [client 5.255.250.81] File does not exist: /var/www/people/whanchoi/robots.txt
+[Tue Dec 04 00:27:37 2018] [error] [client 157.55.39.14] File does not exist: /var/www/people/whanchoi/robots.txt
+[Tue Dec 04 01:14:36 2018] [error] [client 66.249.75.38] File does not exist: /var/www/people/whanchoi/robots.txt
+[Tue Dec 04 01:43:34 2018] [error] [client 115.239.214.218] File does not exist: /var/www/people/whanchoi/ChoiandLuo,2013,II.pdf
+[Tue Dec 04 01:46:03 2018] [error] [client 115.239.216.187] File does not exist: /var/www/people/whanchoi/ChoiandLuo,2013,II.pdf
+[Tue Dec 04 01:47:50 2018] [error] [client 115.239.213.86] File does not exist: /var/www/people/whanchoi/ChoiandLuo,2013,II.pdf
+[Tue Dec 04 03:50:26 2018] [error] [client 5.255.250.81] File does not exist: /var/www/people/whanchoi/robots.txt
+[Tue Dec 04 04:49:15 2018] [warn] RSA server certificate CommonName (CN) `people.uic.edu' does NOT match server name!?
+[Tue Dec 04 05:21:43 2018] [error] [client 95.216.96.254] File does not exist: /var/www/people/whanchoi/robots.txt, referer: http://whanchoi.people.uic.edu/robots.txt
+[Tue Dec 04 08:21:11 2018] [error] [client 40.77.167.75] File does not exist: /var/www/people/whanchoi/ChoiandLuo,2013,II.pdf
+[Tue Dec 04 09:36:36 2018] [error] [client 157.55.39.39] File does not exist: /var/www/people/whanchoi/robots.txt
+[Tue Dec 04 09:37:43 2018] [error] [client 176.122.179.101] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Tue Dec 04 12:00:14 2018] [error] [client 66.249.75.40] File does not exist: /var/www/people/whanchoi/robots.txt
+[Tue Dec 04 12:09:24 2018] [error] [client 199.168.237.255] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/
+[Tue Dec 04 12:09:31 2018] [error] [client 199.168.237.255] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/CurriculumVitae.pdf
+[Tue Dec 04 13:45:32 2018] [error] [client 157.55.39.254] File does not exist: /var/www/people/whanchoi/internallydisplacedpopulationsandsuicideterrorism.pdf
+[Tue Dec 04 14:10:09 2018] [error] [client 131.193.132.242] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/
+[Tue Dec 04 14:16:46 2018] [error] [client 66.249.88.31] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Tue Dec 04 14:56:27 2018] [error] [client 66.249.75.36] File does not exist: /var/www/people/whanchoi/robots.txt
+[Tue Dec 04 18:19:49 2018] [error] [client 208.71.27.110] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/
+[Tue Dec 04 18:19:58 2018] [error] [client 208.71.27.110] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/CurriculumVitae.pdf
+[Tue Dec 04 18:27:26 2018] [error] [client 208.71.27.110] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: http://whanchoi.people.uic.edu/
+[Tue Dec 04 18:27:35 2018] [error] [client 208.71.27.110] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/research.html
+[Tue Dec 04 19:13:31 2018] [error] [client 178.63.26.114] File does not exist: /var/www/people/whanchoi/robots.txt
+[Tue Dec 04 20:36:47 2018] [error] [client 50.247.132.59] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/CurriculumVitae.pdf
+[Tue Dec 04 23:51:33 2018] [error] [client 218.107.17.38] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Wed Dec 05 00:58:25 2018] [error] [client 40.77.167.80] File does not exist: /var/www/people/whanchoi/curriculumvitae.pdf
+[Wed Dec 05 01:04:31 2018] [error] [client 66.249.75.40] File does not exist: /var/www/people/whanchoi/robots.txt
+[Wed Dec 05 01:52:15 2018] [error] [client 115.239.214.232] File does not exist: /var/www/people/whanchoi/ChoiandLuo,2013,II.pdf
+[Wed Dec 05 01:54:00 2018] [error] [client 115.239.213.226] File does not exist: /var/www/people/whanchoi/ChoiandLuo,2013,II.pdf
+[Wed Dec 05 01:55:47 2018] [error] [client 115.239.215.38] File does not exist: /var/www/people/whanchoi/ChoiandLuo,2013,II.pdf
+[Wed Dec 05 04:09:01 2018] [error] [client 100.43.91.126] File does not exist: /var/www/people/whanchoi/robots.txt
+[Wed Dec 05 05:22:58 2018] [warn] RSA server certificate CommonName (CN) `people.uic.edu' does NOT match server name!?
+[Wed Dec 05 06:33:27 2018] [error] [client 40.77.167.85] File does not exist: /var/www/people/whanchoi/ethnicgroupspoliticalexclusionanddomesticterrorism.pdf
+[Wed Dec 05 07:06:47 2018] [error] [client 66.249.75.36] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Wed Dec 05 07:18:03 2018] [error] [client 40.77.167.80] File does not exist: /var/www/people/whanchoi/robots.txt
+[Wed Dec 05 07:38:52 2018] [error] [client 40.77.167.151] File does not exist: /var/www/people/whanchoi/doeconomicsanctionsimpairtargeteconomies.pdf
+[Wed Dec 05 07:45:03 2018] [error] [client 157.55.39.36] File does not exist: /var/www/people/whanchoi/robots.txt
+[Wed Dec 05 08:08:55 2018] [error] [client 66.249.75.36] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Wed Dec 05 09:39:06 2018] [error] [client 176.122.179.101] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Wed Dec 05 12:13:49 2018] [error] [client 157.55.39.196] File does not exist: /var/www/people/whanchoi/Chapter5.pdf
+[Wed Dec 05 12:49:36 2018] [error] [client 66.249.75.40] File does not exist: /var/www/people/whanchoi/robots.txt
+[Wed Dec 05 13:05:03 2018] [error] [client 66.249.75.38] File does not exist: /var/www/people/whanchoi/robots.txt
+[Wed Dec 05 17:31:22 2018] [warn] RSA server certificate CommonName (CN) `people.uic.edu' does NOT match server name!?
+[Wed Dec 05 17:41:58 2018] [error] [client 5.255.250.81] File does not exist: /var/www/people/whanchoi/robots.txt
+[Wed Dec 05 18:06:43 2018] [warn] RSA server certificate CommonName (CN) `people.uic.edu' does NOT match server name!?
+[Wed Dec 05 18:30:04 2018] [error] [client 103.131.71.114] File does not exist: /var/www/people/whanchoi/robots.txt
+[Wed Dec 05 19:09:10 2018] [error] [client 73.80.238.137] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/WhyDoesTheUSInterveneAbroad.pdf
+[Wed Dec 05 19:57:05 2018] [error] [client 76.98.178.78] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/
+[Wed Dec 05 20:01:12 2018] [error] [client 42.49.109.135] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Wed Dec 05 20:48:44 2018] [error] [client 54.36.150.108] File does not exist: /var/www/people/whanchoi/robots.txt
+[Wed Dec 05 21:07:14 2018] [error] [client 123.125.67.156] File does not exist: /var/www/people/whanchoi/robots.txt
+[Wed Dec 05 21:27:23 2018] [error] [client 35.226.223.136] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/
+[Wed Dec 05 21:30:22 2018] [error] [client 42.49.109.238] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Wed Dec 05 22:59:34 2018] [error] [client 72.203.101.36] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/
+[Thu Dec 06 00:33:35 2018] [error] [client 157.55.39.14] File does not exist: /var/www/people/whanchoi/robots.txt
+[Thu Dec 06 00:33:56 2018] [error] [client 5.255.250.81] File does not exist: /var/www/people/whanchoi/robots.txt
+[Thu Dec 06 00:54:47 2018] [error] [client 66.249.75.40] File does not exist: /var/www/people/whanchoi/robots.txt
+[Thu Dec 06 01:21:10 2018] [error] [client 66.249.75.38] File does not exist: /var/www/people/whanchoi/robots.txt
+[Thu Dec 06 02:25:53 2018] [error] [client 157.55.39.196] File does not exist: /var/www/people/whanchoi/Chapter5.pdf
+[Thu Dec 06 03:25:10 2018] [error] [client 77.136.200.150] File does not exist: /var/www/people/whanchoi/9418C92973C9
+[Thu Dec 06 03:59:42 2018] [warn] RSA server certificate CommonName (CN) `people.uic.edu' does NOT match server name!?
+[Thu Dec 06 04:43:32 2018] [error] [client 100.43.91.126] File does not exist: /var/www/people/whanchoi/robots.txt
+[Thu Dec 06 05:32:51 2018] [error] [client 109.246.2.234] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/
+[Thu Dec 06 07:07:43 2018] [error] [client 96.248.68.235] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/CurriculumVitae.pdf
+[Thu Dec 06 07:12:14 2018] [error] [client 134.34.48.185] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Thu Dec 06 07:13:28 2018] [error] [client 108.31.95.198] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/CurriculumVitae.pdf
+[Thu Dec 06 07:15:23 2018] [error] [client 73.215.207.169] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/CurriculumVitae.pdf
+[Thu Dec 06 07:18:17 2018] [error] [client 40.77.167.85] File does not exist: /var/www/people/whanchoi/ChoiandLuo,2013,II.pdf
+[Thu Dec 06 07:23:04 2018] [error] [client 223.16.77.20] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/CurriculumVitae.pdf
+[Thu Dec 06 07:30:39 2018] [error] [client 86.130.29.67] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/CurriculumVitae.pdf
+[Thu Dec 06 07:37:44 2018] [error] [client 107.2.239.246] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/CurriculumVitae.pdf
+[Thu Dec 06 07:56:13 2018] [error] [client 194.59.251.242] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/CurriculumVitae.pdf
+[Thu Dec 06 07:56:17 2018] [error] [client 129.206.185.165] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Thu Dec 06 07:56:22 2018] [error] [client 218.107.17.38] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Thu Dec 06 08:04:18 2018] [error] [client 73.152.154.13] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/CurriculumVitae.pdf
+[Thu Dec 06 08:14:41 2018] [error] [client 132.170.212.30] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/CurriculumVitae.pdf
+[Thu Dec 06 08:31:06 2018] [error] [client 128.252.25.21] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/CurriculumVitae.pdf
+[Thu Dec 06 08:40:45 2018] [error] [client 24.56.39.130] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/CurriculumVitae.pdf
+[Thu Dec 06 08:45:21 2018] [error] [client 94.26.34.198] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/NewExplorationsIntoInternationalRelations.pdf
+[Thu Dec 06 08:51:29 2018] [error] [client 155.245.59.79] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/CurriculumVitae.pdf
+[Thu Dec 06 09:00:42 2018] [error] [client 75.80.48.99] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/CurriculumVitae.pdf
+[Thu Dec 06 09:03:03 2018] [error] [client 152.2.247.190] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/CurriculumVitae.pdf
+[Thu Dec 06 09:13:50 2018] [error] [client 134.95.83.140] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Thu Dec 06 09:23:24 2018] [error] [client 70.32.0.106] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/
+[Thu Dec 06 09:35:46 2018] [error] [client 176.122.179.101] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Thu Dec 06 09:37:36 2018] [error] [client 96.85.42.41] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/CurriculumVitae.pdf
+[Thu Dec 06 09:37:38 2018] [error] [client 73.72.92.80] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/CurriculumVitae.pdf
+[Thu Dec 06 09:39:42 2018] [error] [client 149.160.148.162] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/CurriculumVitae.pdf
+[Thu Dec 06 09:53:58 2018] [error] [client 18.212.222.66] File does not exist: /var/www/people/whanchoi/robots.txt
+[Thu Dec 06 09:53:58 2018] [error] [client 18.212.222.66] File does not exist: /var/www/people/whanchoi/robots.txt
+[Thu Dec 06 09:55:31 2018] [error] [client 131.193.132.242] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/
+[Thu Dec 06 09:56:00 2018] [error] [client 90.105.192.99] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Thu Dec 06 10:09:38 2018] [error] [client 66.249.75.36] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Thu Dec 06 10:24:09 2018] [error] [client 202.166.148.176] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/CurriculumVitae.pdf
+[Thu Dec 06 10:30:44 2018] [error] [client 128.230.134.13] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/CurriculumVitae.pdf
+[Thu Dec 06 10:41:55 2018] [error] [client 132.161.215.190] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/CurriculumVitae.pdf
+[Thu Dec 06 10:49:42 2018] [error] [client 91.230.41.204] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/CurriculumVitae.pdf
+[Thu Dec 06 11:39:11 2018] [error] [client 90.113.45.206] File does not exist: /var/www/people/whanchoi/9418C92973C9
+[Thu Dec 06 11:45:54 2018] [error] [client 66.249.75.38] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Thu Dec 06 11:47:02 2018] [error] [client 128.206.251.74] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/
+[Thu Dec 06 11:47:08 2018] [error] [client 128.206.251.74] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/
+[Thu Dec 06 11:49:03 2018] [error] [client 128.206.251.74] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/
+[Thu Dec 06 13:18:03 2018] [error] [client 66.249.75.38] File does not exist: /var/www/people/whanchoi/robots.txt
+[Thu Dec 06 13:20:25 2018] [error] [client 129.15.66.195] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/CurriculumVitae.pdf
+[Thu Dec 06 13:58:35 2018] [error] [client 207.46.13.104] File does not exist: /var/www/people/whanchoi/robots.txt
+[Thu Dec 06 14:27:19 2018] [error] [client 5.255.250.81] File does not exist: /var/www/people/whanchoi/robots.txt
+[Thu Dec 06 15:52:37 2018] [error] [client 66.249.75.40] File does not exist: /var/www/people/whanchoi/robots.txt
+[Thu Dec 06 16:13:27 2018] [error] [client 65.254.109.16] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/CurriculumVitae.pdf
+[Thu Dec 06 16:45:58 2018] [error] [client 170.84.97.2] script not found or unable to stat: /var/www/people/whanchoi/wp-login.php
+[Thu Dec 06 17:28:39 2018] [error] [client 207.46.13.105] File does not exist: /var/www/people/whanchoi/internallydisplacedpopulationsandsuicideterrorism.pdf
+[Thu Dec 06 17:39:14 2018] [error] [client 54.234.228.78] File does not exist: /var/www/people/whanchoi/robots.txt
+[Thu Dec 06 17:47:30 2018] [error] [client 205.201.255.5] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/
+[Thu Dec 06 19:28:39 2018] [error] [client 218.107.17.38] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Thu Dec 06 19:30:30 2018] [error] [client 207.46.13.45] File does not exist: /var/www/people/whanchoi/Choi,2015,OEP.pdf
+[Thu Dec 06 19:35:16 2018] [error] [client 108.28.35.54] File does not exist: /var/www/people/whanchoi/apple-touch-icon-120x120-precomposed.png
+[Thu Dec 06 19:35:16 2018] [error] [client 108.28.35.54] File does not exist: /var/www/people/whanchoi/apple-touch-icon-120x120.png
+[Thu Dec 06 19:35:16 2018] [error] [client 108.28.35.54] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Thu Dec 06 19:35:16 2018] [error] [client 108.28.35.54] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Thu Dec 06 19:35:16 2018] [error] [client 108.28.35.54] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Thu Dec 06 19:35:17 2018] [error] [client 108.28.35.54] File does not exist: /var/www/people/whanchoi/apple-touch-icon-120x120-precomposed.png
+[Thu Dec 06 19:35:17 2018] [error] [client 108.28.35.54] File does not exist: /var/www/people/whanchoi/apple-touch-icon-120x120.png
+[Thu Dec 06 19:35:17 2018] [error] [client 108.28.35.54] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Thu Dec 06 19:35:17 2018] [error] [client 108.28.35.54] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Thu Dec 06 19:35:17 2018] [error] [client 108.28.35.54] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Thu Dec 06 20:40:27 2018] [error] [client 58.247.30.162] File does not exist: /var/www/people/whanchoi/apple-touch-icon-120x120-precomposed.png
+[Thu Dec 06 20:40:29 2018] [error] [client 58.247.30.162] File does not exist: /var/www/people/whanchoi/apple-touch-icon-120x120.png
+[Thu Dec 06 20:40:30 2018] [error] [client 58.247.30.162] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Thu Dec 06 20:40:31 2018] [error] [client 58.247.30.162] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Thu Dec 06 20:40:32 2018] [error] [client 58.247.30.162] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Thu Dec 06 20:40:33 2018] [error] [client 58.247.30.162] File does not exist: /var/www/people/whanchoi/apple-touch-icon-120x120-precomposed.png
+[Thu Dec 06 20:40:34 2018] [error] [client 58.247.30.162] File does not exist: /var/www/people/whanchoi/apple-touch-icon-120x120.png
+[Thu Dec 06 20:40:35 2018] [error] [client 58.247.30.162] File does not exist: /var/www/people/whanchoi/apple-touch-icon-precomposed.png
+[Thu Dec 06 20:40:36 2018] [error] [client 58.247.30.162] File does not exist: /var/www/people/whanchoi/apple-touch-icon.png
+[Thu Dec 06 20:40:37 2018] [error] [client 58.247.30.162] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Thu Dec 06 20:44:08 2018] [error] [client 66.249.75.36] File does not exist: /var/www/people/whanchoi/favicon.ico
+[Thu Dec 06 22:32:50 2018] [error] [client 5.255.250.81] File does not exist: /var/www/people/whanchoi/robots.txt
+[Thu Dec 06 23:16:05 2018] [error] [client 68.234.216.22] File does not exist: /var/www/people/whanchoi/favicon.ico, referer: https://whanchoi.people.uic.edu/AMenacetotheDemocraticPeace.pdf
+[Fri Dec 07 00:16:49 2018] [error] [client 207.46.13.45] File does not exist: /var/www/people/whanchoi/Choi,2009,QJPS_one.pdf
+[Fri Dec 07 01:29:38 2018] [error] [client 66.249.75.38] File does not exist: /var/www/people/whanchoi/robots.txt
+[Fri Dec 07 03:20:44 2018] [error] [client 42.49.109.202] File does not exist: /var/www/people/whanchoi/favicon.ico

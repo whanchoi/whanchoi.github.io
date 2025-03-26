@@ -1,0 +1,10 @@
+<contact>
+<a href="mailto:whanchoi@uic.edu">whanchoi@uic.edu</a>
+
+<allow ip>
+*.uic.edu    ## allow everyone from campus directly
+
+<allow groups>
+all
+
+
